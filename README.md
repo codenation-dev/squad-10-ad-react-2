@@ -1,4 +1,13 @@
-# Projeto GitHub
+# Projeto GitHub - Squad 10
+
+## Grupo:
+
+- **Mentor**: Clayton Duarte
+- Sillas Samyr Silveira de Moura
+- Alexandre Celer Nabarrete
+- Bruno Matheus de Lima Cabral
+- José Chaves Neto
+- Vagnerlandio Nunes Ferreira Sobral
 
 ## Descrição
 
